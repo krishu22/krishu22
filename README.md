@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishu22
+- 👋 Hi, I’m Krisha
 - 👀 I am a newbie here at Git Hub
 - 🌱 I’m currently learning c++ 
 - 📫 reach out to me 👉 krishuugrg@gmail.com
